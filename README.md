@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Yellow Nearby Maps
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Note 
+
+Add  REACT_APP_GOOGLE_MAP_API_KEY = in your .env file ( google places maps api key ) 
+
 
 ## Available Scripts
 
